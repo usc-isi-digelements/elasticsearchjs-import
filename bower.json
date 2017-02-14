@@ -1,0 +1,21 @@
+{
+  "name": "elasticsearchjs-import",
+  "description": "Common import for DigElements that use elasticsearch.js as a dependency.",
+  "version": "1.0.0",
+  "authors": ["Next Century"],
+  "license": "Apache-2.0",
+  "keywords": [
+    "dig",
+    "elastic",
+    "elasticsearch"
+  ],
+  "main": "elasticsearch.html",
+  "homepage": "https://github.com/DigElements/elasticsearchjs-import/",
+  "ignore": [
+    "/.*",
+    "/test/"
+  ],
+  "dependencies": {
+    "elasticsearch": "^11.0.1"
+  }
+}
