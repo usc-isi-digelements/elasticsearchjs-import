@@ -10,7 +10,7 @@
     "elasticsearch"
   ],
   "main": "elasticsearch.html",
-  "homepage": "https://github.com/DigElements/elasticsearchjs-import/",
+  "homepage": "https://github.com/usc-isi-digelements/elasticsearchjs-import/",
   "ignore": [
     "/.*",
     "/test/"
